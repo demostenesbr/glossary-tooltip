@@ -1,0 +1,6 @@
+{
+  "name": "drupal/composer-drupal",
+  "require": {
+      "drupal/glossary": "^1.0"
+  }
+}
